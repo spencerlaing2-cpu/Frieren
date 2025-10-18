@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo+Swash+Caps&display=swap');.macondo-swash-caps-regular {
+  font-family: "Macondo Swash Caps", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
 body {
     background-color: cornflowerblue;
 }
@@ -10,4 +18,16 @@ header {
     text-align: center; 
     background-color: lightblue;
     padding:20px;
+}
+
+header img {
+        border: 8px solid cornflowerblue;
+        border-radius: 10%;
+}
+
+header h1 {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-size: 6em;
+    margin: 0;
+    color: cornflowerblue;
 }
